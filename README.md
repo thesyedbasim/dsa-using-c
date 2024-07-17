@@ -1,2 +1,1 @@
-# dsa-using-c
-Data Structures and Algorithms using C
+# Data Structures and Algorithms using C
